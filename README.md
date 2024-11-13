@@ -16,7 +16,7 @@ At the top of the [repository page](https://github.com/repercussive/simple-pytho
 
 ### Run the development server
 
-Press CTRL + J to open the terminal. Type the following command:
+Once the codespace has loaded, you should see an interface that looks like VS Code in your browser. With this open, press CTRL + J to open the terminal. Type the following command:
 ```
 npm run dev
 ```
