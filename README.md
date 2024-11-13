@@ -10,7 +10,7 @@ You'll have to be logged into GitHub, or create an account if you don't have one
 
 ### Create a codespace from this template
 
-At the top of the [repository page](https://github.com/repercussive/simple-python-codespace), click "Code" -> "Create codespace on main". This can take a couple minutes to set up.
+At the top of the [repository page](https://github.com/repercussive/react-codespace-starter), click "Code" -> "Create codespace on main". This can take a couple minutes to set up.
 
 <img src="https://github.com/repercussive/simple-python-codespace/assets/7796522/0c876eab-628e-4843-8646-ef773a790ae7" width=50% height=50%>
 
