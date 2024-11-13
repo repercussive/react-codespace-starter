@@ -16,11 +16,11 @@ At the top of the [repository page](https://github.com/repercussive/simple-pytho
 
 ### Run the development server
 
-Press Ctrl + J to open the terminal. Type the following command:
+Press CTRL + J to open the terminal. Type the following command:
 ```
 npm run dev
 ```
-Press enter, and the development server should open in a new tab.
+Press enter, and you should see a URL appear in the terminal labelled "Local". Hold CTRL and left-click on the URL, and it should open in a separate tab.
 
 ### Stop the codespace when you're finished using it.
 
